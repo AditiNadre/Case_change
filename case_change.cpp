@@ -2,7 +2,7 @@
 /* logic- the ASCII value of a-z are 97-122 
         the ASCII value of A-Z are 65-90
         to convert a to A you need to sustract 32 {a(97)-32=A(65)}
-        to convert A to a you need to add 32 {A(65)+32=a(97)} */
+        to convert A to a you need to add 32 {A(65)+32=a(97)}  */
 
 #include <iostream>
 using namespace std;
